@@ -1,0 +1,81 @@
+#ws {
+    font-family: fantasy;
+}
+
+#ws1 {
+    width: 350;
+    height: 350;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: medium;
+}
+
+#intro {
+    font-size: 20px;
+    font-family: cursive;
+
+}
+
+#original1 {
+    text-align: center;
+}
+
+#ansum {
+    text-align: center;
+}
+
+#leannotes {
+    text-align: center;
+}
+#changed1 {
+    text-align:center;
+}
+
+#note1 {
+
+    height: 900px;
+    width: 900px;
+    border-color: black;
+    border-style: solid;
+    border-width: thick;
+    border-radius: 10px;
+    text-align: center;
+    align-self: center;
+}
+
+p {
+    text-align: center;
+}
+
+#comments {
+    text-align: center;
+}
+
+
+#poem {
+    font-family: inherit;
+    font-size: 18px;
+    text-align: center;
+    background-color: burlywood;
+}
+
+#meaning {
+    font-family: inherit;
+    font-size: 20px;
+    text-align: left;
+    background-color: darkred;
+    color: white;
+}
+
+#inspired {
+    font-family: inherit;
+    font-size: 20px;
+    text-align: left;
+    background-color: lightgrey;
+    color: black;
+}
+
+#insp {
+    text-align: center;
+}
